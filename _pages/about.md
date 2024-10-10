@@ -13,3 +13,5 @@ I am a first-year PhD student at the University of Chicago, where I am advised b
 I received my bachelor's degree in Computer Science at Pomona College. During undergrad, I worked with Professor [Anthony Clark](https://cs.pomona.edu/~ajc//) in the [ARCS Lab](https://cs.pomona.edu/~ajc/arcslab/) and completed a senior thesis on the defense of federated learning against evasion attacks with Professors [Eleanor Birrell](https://cs.pomona.edu/~ebirrell/) and [Anthony Clark](https://cs.pomona.edu/~ajc//). Through cybersecurity and software engineering internships, I have built out ML-driven security solutions for sim-swap fraud detection and various mobile applications, including a social media platform for surfers called [SurfStop](https://github.com/christymarc/SurfStop).
 
 If you have any interest in applying to grad school for CS, the [Resources](https://christymarc.github.io/resources/) tab contains some things that I found helpful when applying.
+
+Email: cmarchese [at] uchicago.edu
