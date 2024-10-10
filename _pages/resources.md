@@ -26,8 +26,8 @@ For crafting the personal statement, SoP, and just generally receiving mentorshi
 
 ### Application Fee Waivers
 There are a variety of ways to get fee waivers. I encourage you to look at your target schools' specific fee waiver policies, but I have listed some of the ways I received them.
-* Demonstrating finantial need: some programs will waive you application fee if you are on financial aid at your current university and you submit your aid statement.
-* Conferences: if you are able to attend conferences like [Tapia](https://tapiaconference.cmd-it.org/) or [Grace Hopper](https://ghc.anitab.org/), many graduate programs will have booths where they will give you a fee waiver code. Some schools will also waive your application fee if you submit proof of conference attendance.
+* Demonstrating financial need: some programs will waive you application fee if you are on financial aid at your current university and you submit your aid statement.
+* Conferences: if you are able to attend conferences like [Tapia](https://tapiaconference.cmd-it.org/) or [Grace Hopper](https://ghc.anitab.org/), many programs will have booths where they give out fee waiver codes. Some schools will also waive your application fee if you submit proof of conference attendance.
 * Targeted programs or organization membership: if you are a member or participate in some of the following programs, you may qualify for a fee waiver. I have not listed them all (there are too many).
     * Graduate Application Support Programs (by school)
     * REU programs (by school)
@@ -40,6 +40,6 @@ There are a variety of ways to get fee waivers. I encourage you to look at your 
 * Some programs just waive fees for everyone like [CMU Societal Computing](https://sc.s3d.cmu.edu/prospective-students/apply.html) :-)
 
 ### Some General Comments
-The kindness of others and their willingness to give me advice helped me instrumentally when it came to choosing programs and applying. Don't be afraid to reach out to graduate students in the labs you are interested in to ask them about their experiences and to receive advice.
+Don't be afraid to reach out to graduate students in the labs you are interested in to ask them about their experiences and to receive advice.
 
-If you would like to chat about applying to grad school, UChicago's PhD program, my research, or other related things, feel free to reach out. I will do my best to respond.
+If you would like to chat about applying to grad school, UChicago's PhD program, my research, or other related things, feel free to reach out to me via email. I will do my best to respond.
