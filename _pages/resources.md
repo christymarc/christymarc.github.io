@@ -43,3 +43,5 @@ There are a variety of ways to get fee waivers. I encourage you to look at your 
 Don't be afraid to reach out to graduate students in the labs you are interested in to ask them about their experiences and to receive advice.
 
 If you would like to chat about applying to grad school, UChicago's PhD program, my research, or other related things, feel free to reach out to me via email. I will do my best to respond.
+
+Good Luck!
