@@ -1,4 +1,12 @@
-# Resources
+---
+permalink: /
+title: "Resources"
+excerpt: "Resources"
+author_profile: true
+redirect_from: 
+  - /resources/
+  - /resources.html
+---
 
 ## Applying to Grad School
 I personally benefitted from many formal and informal initiatives that aim to help students apply to grad school, so here are a couple that I found helpful.
