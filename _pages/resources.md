@@ -24,10 +24,19 @@ For crafting the personal statement, SoP, and just generally receiving mentorshi
         * MIT has other application support programs outside of EECS as well: [MIT GAAPs](https://oge.mit.edu/community-diversity/prospective-students/graduate-application-assistance-programs-gaap/)
     * [University of Washington CSE PAMS](https://www.cs.washington.edu/academics/phd/admissions/pams)
         * deadline: summer
-    * [University of Massachussets Amherst CICS](https://paspumasscs.github.io/)
+    * [University of Massachussets Amherst CICS PhD Applicant Support Program](https://paspumasscs.github.io/)
         * deadline: rolling
     * [Cornell University CIS SASP](https://www.cs.cornell.edu/phd/admissions)
         * deadline: October 18, 2024
+    * [Northwestern University PhD Application Feedback Program](https://docs.google.com/forms/d/e/1FAIpQLSeNJnGYycqM9ICikbhm4cC5H1kTWlsAU2_KTdvHGSFQRmgVEw/viewform)
+        * deadline: November 4, 2024
+    * [UC Berkeley EECS EAAA](https://sites.google.com/berkeley.edu/eaaa/home)
+        * deadline: October 6, 2024
+    * [UC Berkeley School of Information Ph.D. Applicant Feedback Program](https://www.ischool.berkeley.edu/programs/phd/admissions/feedback)
+        * deadline: November 1, 2024
+    * [Stanford CS SASP](https://www.cs.stanford.edu/admissions-student-resources)
+        * deadline: October 25, 2024
+    * Other institutions that have had programs in the past, but I couldn't find information on for the 2024-2025 cycle include: UChicago, Brown, UPenn, UCSB. 
 
 ### Application Fee Waivers
 There are a variety of ways to get fee waivers. I encourage you to look at your target schools' specific fee waiver policies, but I have listed some of the ways I received them.
