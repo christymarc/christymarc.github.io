@@ -22,7 +22,7 @@ For crafting the personal statement, SoP, and just generally receiving mentorshi
     * [Massachusetts Institute of Technology EECS GAAP](https://eecs-gaap.mit.edu/)
         * deadline: October 15, 2024 (after this deadline you can still get one-off consultations)
         * MIT has other application support programs outside of EECS as well: [MIT GAAPs](https://oge.mit.edu/community-diversity/prospective-students/graduate-application-assistance-programs-gaap/)
-    * [University of Washington](https://www.cs.washington.edu/academics/phd/admissions/pams)
+    * [University of Washington CSE PAMS](https://www.cs.washington.edu/academics/phd/admissions/pams)
         * deadline: summer
     * [University of Massachussets Amherst CICS](https://paspumasscs.github.io/)
         * deadline: rolling
