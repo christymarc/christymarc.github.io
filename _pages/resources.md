@@ -16,7 +16,7 @@ It can be hard to know where even to apply to. I found it helpful to read papers
 ### Writing Your Application
 For crafting the personal statement, SoP, and just generally receiving mentorship, these resources were helpful.
 * [cs-sop.org](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d): database of CS PhD Statement of Purpose examples posted by previous applicants
-* Graduate Application Support Programs: programs where applicants are matched with current PhD student mentors that can help you with your application material. Some support programs don't seem to be running this cycle, and application deadlines tend to vary year-to-year, but I've noted some for the 2024-2025 cycle.
+* Graduate Application Support Programs: programs where applicants are matched with current PhD student mentors that can help you with your application material. Application deadlines tend to vary year-to-year, but I've noted some for the 2024-2025 cycle.
     * [Carnegie Mellon University SCS GASP](https://www.cs.cmu.edu/academics/phd/application-support)
         * deadline: October 8, 2024
     * [Massachusetts Institute of Technology EECS GAAP](https://eecs-gaap.mit.edu/)
