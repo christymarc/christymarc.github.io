@@ -37,7 +37,7 @@ For crafting the personal statement, SoP, and just generally receiving mentorshi
     * [Stanford CS SASP](https://www.cs.stanford.edu/admissions-student-resources)
         * deadline: October 25, 2024
     * Other institutions that have had programs in the past, but I couldn't find information on for the 2024-2025 cycle include: UChicago, Brown, UPenn, UCSB.
-* For a more general guide on application dos and don'ts, there is also [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) by Professor Mor Harchol-Balter at CMU
+* For a more general guide on application dos and don'ts, there is also [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) by Professor Mor Harchol-Balter at CMU.
 
 ### Application Fee Waivers
 There are a variety of ways to get fee waivers. I encourage you to look at your target schools' specific fee waiver policies, but I have listed some of the ways I received them.
