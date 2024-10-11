@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Applying to Grad School
-I personally benefitted from many formal and informal initiatives that aim to help students apply to grad school, so here are a couple that I found helpful.
+I personally benefitted from many initiatives that aim to help students apply to grad school, so here are a couple that I found helpful.
 
 ### Choosing Programs
 It can be hard to know where even to apply to. I found it helpful to read papers and look at the top conferences in the areas I was interested in to see who is publishing research I like. From there, I aimed to find 2-4 other professors at a given institution of interest, which is where CSRanking became a helpful resource to find PIs in certain research areas and their websites.
