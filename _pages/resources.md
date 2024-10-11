@@ -10,12 +10,12 @@ I personally benefitted from many initiatives that aim to help students apply to
 
 ### Choosing Programs
 It can be hard to know where even to apply to. I found it helpful to read papers and look at the top conferences in the areas I was interested in to see who is publishing research I like. From there, I aimed to find 2-4 other professors at a given institution of interest, which is where CSRanking became a helpful resource to find PIs in certain research areas and their websites.
-* [csrankings.org](https://csrankings.org/#/index?all&us): ranks CS programs around the world and can be helpful for finding professors in your area
-* [csstipendrankings.org](https://csstipendrankings.org/): information (some slightly outdated) on PhD stipends
+* [csrankings.org](https://csrankings.org/#/index?all&us): ranks CS programs around the world and can be helpful for finding professors in your area.
+* [csstipendrankings.org](https://csstipendrankings.org/): information (some slightly outdated) on PhD stipends.
 
 ### Writing Your Application
 For crafting the personal statement, SoP, and just generally receiving mentorship, these resources were helpful.
-* [cs-sop.org](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d): database of CS PhD Statement of Purpose examples posted by previous applicants
+* [cs-sop.org](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d): database of CS PhD Statement of Purpose examples posted by previous applicants.
 * Graduate Application Support Programs: programs where applicants are matched with current PhD student mentors that can help you with your application material. Application deadlines tend to vary year-to-year, but I've noted some for the 2024-2025 cycle.
     * [Carnegie Mellon University SCS GASP](https://www.cs.cmu.edu/academics/phd/application-support)
         * deadline: October 8, 2024
