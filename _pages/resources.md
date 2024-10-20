@@ -36,7 +36,8 @@ For crafting the personal statement, SoP, and just generally receiving mentorshi
         * deadline: November 1, 2024
     * [Stanford CS SASP](https://www.cs.stanford.edu/admissions-student-resources)
         * deadline: October 25, 2024
-    * Other institutions that have had programs in the past, but I couldn't find information on for the 2024-2025 cycle include: UChicago, Brown, UPenn, UCSB.
+    * UChicago CS SASP (exists but pending...)
+    * Other institutions that have had programs in the past, but I couldn't find information on for the 2024-2025 cycle include: Brown, UPenn, UCSB.
 * For a more general guide on application dos and don'ts, there is also [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) by Professor Mor Harchol-Balter at CMU.
 
 ### Application Fee Waivers
