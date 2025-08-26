@@ -18,7 +18,7 @@ For crafting the personal statement, SoP, and just generally receiving mentorshi
 * [cs-sop.org](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d): database of CS PhD Statement of Purpose examples posted by previous applicants.
 * Graduate Application Support Programs: programs where applicants are matched with current PhD student mentors that can help you with your application material. Application deadlines tend to vary year-to-year, I have noted the current cycle's deadline (or the past year's deadline if the application has not opened up yet).
     * [Code to PhD's PhD Application Support Program](https://docs.google.com/forms/d/e/1FAIpQLSeEpPWYDzT0WPhNQgeI6SaierU-ZyCBu-CFO1LQFUBnzZJgdA/viewform)
-        * The only inter-university application support program with PhD student mentors from UChicago, MIT, Northeastern, Purdue, RIT, Texas A&M, UCI, UNC - Chapel Hill, University of Minnesota, WashU, Tufts, UC Boulder, and USC.
+        * The only inter-university application support program, with PhD student mentors from UChicago, MIT, Northeastern, Purdue, RIT, Texas A&M, UCI, UNC - Chapel Hill, University of Minnesota, WashU, Tufts, UC Boulder, and USC.
         * deadline: September 17, 2025   
     * [Cornell University CIS SASP](https://www.cs.cornell.edu/phd/admissions)
         * See the "Applicant Reading Support" tab
