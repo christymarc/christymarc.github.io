@@ -16,18 +16,22 @@ It can be hard to know where even to apply to. I found it helpful to read papers
 ### Writing Your Application
 For crafting the personal statement, SoP, and just generally receiving mentorship, these resources were helpful.
 * [cs-sop.org](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d): database of CS PhD Statement of Purpose examples posted by previous applicants.
-* Graduate Application Support Programs: programs where applicants are matched with current PhD student mentors that can help you with your application material. Application deadlines tend to vary year-to-year, but I've noted some for the 2024-2025 cycle.
+* Graduate Application Support Programs: programs where applicants are matched with current PhD student mentors that can help you with your application material. Application deadlines tend to vary year-to-year, I have noted the current cycle's deadline (or the past year's deadline if the application has not opened up yet).
+    * [Code to PhD's PhD Application Support Program](https://docs.google.com/forms/d/e/1FAIpQLSeEpPWYDzT0WPhNQgeI6SaierU-ZyCBu-CFO1LQFUBnzZJgdA/viewform)
+        * The only inter-university application support program with PhD student mentors from UChicago, MIT, Northeastern, Purdue, RIT, Texas A&M, UCI, UNC - Chapel Hill, University of Minnesota, WashU, Tufts, UC Boulder, and USC.
+        * deadline: September 17, 2025   
+    * [Cornell University CIS SASP](https://www.cs.cornell.edu/phd/admissions)
+        * See the "Applicant Reading Support" tab
+        * deadline: October 24, 2025
     * [Carnegie Mellon University SCS GASP](https://www.cs.cmu.edu/academics/phd/application-support)
         * deadline: October 8, 2024
     * [Massachusetts Institute of Technology EECS GAAP](https://eecs-gaap.mit.edu/)
-        * deadline: October 15, 2024 (after this deadline you can still get one-off consultations)
+        * deadline: October 15, 2024
         * MIT has other application support programs outside of EECS as well: [MIT GAAPs](https://oge.mit.edu/community-diversity/prospective-students/graduate-application-assistance-programs-gaap/)
     * [University of Washington CSE PAMS](https://www.cs.washington.edu/academics/phd/admissions/pams)
         * deadline: summer
     * [University of Massachussets Amherst CICS PhD Applicant Support Program](https://paspumasscs.github.io/)
         * deadline: rolling
-    * [Cornell University CIS SASP](https://www.cs.cornell.edu/phd/admissions)
-        * deadline: October 18, 2024
     * [Northwestern University PhD Application Feedback Program](https://docs.google.com/forms/d/e/1FAIpQLSeNJnGYycqM9ICikbhm4cC5H1kTWlsAU2_KTdvHGSFQRmgVEw/viewform)
         * deadline: November 4, 2024
     * [UC Berkeley EECS EAAA](https://sites.google.com/berkeley.edu/eaaa/home)
@@ -36,7 +40,6 @@ For crafting the personal statement, SoP, and just generally receiving mentorshi
         * deadline: November 1, 2024
     * [Stanford CS SASP](https://www.cs.stanford.edu/admissions-student-resources)
         * deadline: October 25, 2024
-    * Other institutions that have had programs in the past, but I couldn't find information on for the 2024-2025 cycle include: Brown, UPenn, UCSB.
 * For a more general guide on application dos and don'ts, there is also [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) by Professor Mor Harchol-Balter at CMU.
 
 ### Application Fee Waivers
