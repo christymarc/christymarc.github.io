@@ -15,7 +15,5 @@ I received my bachelor's degree in Computer Science at Pomona College. During un
 ## Code To PhD
 [Grace Li](https://graceli458.github.io/) and I lead Code to PhD, a student-run inter-university initiative which aims to help underrepresented individuals apply to CS-related PhD programs and find mentorship to support them through their graduate studies. In line with this goal, we host office hours, panels, and a PhD Application Support Program. To learn more about our upcoming events/programs and how to get involved as a mentee or volunteer, visit our [website](https://codetophd.github.io/). 
 
-We are currently recruiting PhD student mentors for our application support program! Sign up here: [Volunteer Sign Up Form](https://forms.gle/kMmPpTNBaTASKSHu9).
-
 ## Resources
 If you have any interest in applying to grad school for CS, I have compiled some potentially helpful recourses based on my experiences. See [Resources](https://christymarc.github.io/resources/) tab for more info.
